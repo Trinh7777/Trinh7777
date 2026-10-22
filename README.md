@@ -1,9 +1,8 @@
-### 👋 Hi, I'm [Tên của bạn].
+### 👋 Hi, I'm Trinh
 
-* 💻 I'm interested in [lĩnh vực/sở thích của bạn, ví dụ: AI, coding, ...].
-* 🚀 I'm currently learning [công nghệ bạn đang học].
-* 💬 Ask me about [ngôn ngữ hoặc công nghệ bạn rành].
-* 📫 How to reach me: [Link Facebook/Email của bạn]
+* 💻 I'm interested in music and draw
+* 🚀 I'm currently learning Artificial intelligence
+* 📫 How to reach me: https://www.facebook.com/hihihaha00110?locale=vi_VN
 
 ### ⚡ Skills
 
@@ -13,11 +12,3 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-
-### 📊 GitHub Stats & Languages
-
-<!-- Thêm các thẻ thống kê tự động -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TÊN_USER_CỦA_BẠN&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TÊN_USER_CỦA_BẠN&layout=compact&theme=transparent" height="150" />
-</p>
